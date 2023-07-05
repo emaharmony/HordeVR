@@ -1,9 +1,0 @@
-{
-	"name" : "Unity.XR.Oculus",
-	"references" : [
-		"Unity.XR.Management",
-		"Unity.ugui"
-	],
-	"includePlatforms": [],
-	"excludePlatforms": []
-}
